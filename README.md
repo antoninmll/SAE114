@@ -11,7 +11,9 @@ Le site explore la trilogie Cars de Pixar à travers des pages dédiées à chaq
 
 Vers le site -> **https://antoninmll.github.io/SAE114/**
 
-Vers le Trello -> https://trello.com/invite/b/6914a500ad56cd963cd4d177/ATTI5f24daf0299554f098a074e7e6fc4b29398C7602/sae-104
+Vers le Trello -> **https://trello.com/invite/b/6914a500ad56cd963cd4d177/ATTI5f24daf0299554f098a074e7e6fc4b29398C7602/sae-104**
+
+Livrables de R115 -> WBSAntoninMillet.pdf / Plannification_des_taches_AntoninMILLET.xlsx (*directement dans le repository Github*)
 
 ## ✨ Fonctionnalités
 
