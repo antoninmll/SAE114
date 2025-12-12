@@ -109,7 +109,7 @@ h1 {
     height: 200%;
 }
 
-.imgcars1 {
+.imgcars2{
     scale: 60%;
 }
 
@@ -158,6 +158,21 @@ p {
 .character-card h3 {
     color: #e74c3c;
     margin-bottom: 0.5rem;
+}
+
+.locations-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.location-tag {
+    background: #4b4b4b;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border-radius: 20px;
+    font-weight: 600;
 }
 
 .back-btn {

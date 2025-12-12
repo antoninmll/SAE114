@@ -71,7 +71,7 @@ h1 {
 
 .movie-card {
     background: white;
-    border-radius: 15px;
+    border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
     transition: transform 0.4s ease, box-shadow 0.4s ease;
@@ -108,16 +108,16 @@ h1 {
     bottom: 0;
 }
 
-.imgcars1{
-    scale :55%;
+.imgcars1 {
+    scale: 55%;
 }
 
-.imgcars2{
-    scale:50%
+.imgcars2 {
+    scale: 50%
 }
 
-.imgcars3{
-    scale:90%;
+.imgcars3 {
+    scale: 90%;
 }
 
 .movie-info {
@@ -141,7 +141,7 @@ h1 {
     background: linear-gradient(135deg, #808080 0%, #2c2c2c 100%);
     color: white;
     padding: 0.8rem 2rem;
-    border-radius: 25px;
+    border-radius: 10px;
     text-decoration: none;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     font-weight: 600;

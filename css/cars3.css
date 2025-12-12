@@ -109,8 +109,8 @@ h1 {
     height: 200%;
 }
 
-.imgcars1 {
-    scale: 60%;
+.imgcars3{
+    scale: 90%;
 }
 
 .content-section {
@@ -158,6 +158,21 @@ p {
 .character-card h3 {
     color: #e74c3c;
     margin-bottom: 0.5rem;
+}
+
+.themes-list {
+    list-style: none;
+    margin-top: 1.5rem;
+}
+
+.themes-list li {
+    background: #4b4b4b;
+    color: white;
+    padding: 1rem 1.5rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    font-weight: 600;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
 }
 
 .back-btn {
