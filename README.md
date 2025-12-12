@@ -25,3 +25,7 @@ Le site explore la trilogie Cars de Pixar à travers des pages dédiées à chaq
 - CSS3
 - GitHub
 - GitHub Pages
+
+## Problèmes rencontrés
+
+Quelques difficultés techniques rencontrées lors de la gestion du versioning expliquent le nombre limité de commits.
