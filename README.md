@@ -33,3 +33,5 @@ Livrables de R115 -> WBSAntoninMillet.pdf / Plannification_des_taches_AntoninMIL
 ## Problèmes rencontrés
 
 Quelques difficultés techniques rencontrées lors de la gestion du versioning expliquent le nombre limité de commits.
+
+   
